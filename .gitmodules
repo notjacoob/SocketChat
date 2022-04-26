@@ -1,0 +1,6 @@
+[submodule "SocketChatClient"]
+	path = SocketChatClient
+	url = https://github.com/notjacoob/SocketChatClient
+[submodule "SocketChatServer"]
+	path = SocketChatServer
+	url = https://github.com/notjacoob/SocketChatServer
